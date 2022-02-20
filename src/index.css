@@ -1,0 +1,32 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-align: center;
+        font-family: 'Atma', cursive;
+    }
+
+
+
+
+    html {
+        background: url("/src/assets/Rectangle 3.png");
+        background-size: 100%;
+
+    }
+
+    .intro {
+    color: white;
+    font-family: 'Atma', cursive;
+    font-size: 330%;
+    position: absolute;
+    left: 1015px;
+        right: 100px;
+    top: 210px;
+    }
+
+    h6 {
+        font-size: 144px;
+    }
+
+
